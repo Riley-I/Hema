@@ -29,5 +29,6 @@ Bootstrap was used for the front end framework and styled with custom CSS.
 **For work inquiries you can reach me at rileyidev@gmail.com**
 
 **TO TEST OUT APPLICATION WITHOUT HAVING TO CREATE A USER ACCOUNT, USE THE FOLLOWING:**
+
 email: *guest@guest.com*
 password: *groovysandfish*
